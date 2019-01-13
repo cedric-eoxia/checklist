@@ -1,0 +1,13 @@
+%task%Mise en place des annaires locaux première partie - 1.0.0-20190107
+%point%Info Is Info
+%point%Google My Business
+%point%Hotfrog
+%point%Facebook
+%point%Waze
+%point%Google Maps
+%point%Jelloo
+%point%ABC Local
+%point%Tupalo
+%point%Yalwa
+%point%Cylex
+%point%Factual

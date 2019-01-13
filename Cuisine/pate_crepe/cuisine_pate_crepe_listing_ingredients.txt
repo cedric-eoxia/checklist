@@ -1,0 +1,8 @@
+%task% Liste des ingrédients pour réaliser une pate à crêpe
+%point%250g de farine
+%point%4 oeufs
+%point%un demi-litre de lait
+%point%1 pincée de sel
+%point%50 grammes de beurre
+%point%1 sachet de sucre vanillé
+%point%1 cuillère à soupe de rhum (5 cl)

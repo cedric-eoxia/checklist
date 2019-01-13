@@ -2,7 +2,7 @@
 All the checklist for all to do.
 Toutes les checklist pour tout faire
 
-##  Organisation des fichiers - Charte de nommage
+##  Charte de nommage et organisation des fichiers
 ### Noms des dossiers
 Les noms ci-dessous sont des dossiers chaque dossier est relatif d'une catégories, secteur d'activité, famille. C'est un regroupement de dossiers ou directement des checklist en rapport avec sont nom.
 * Personnel
@@ -18,8 +18,10 @@ les fichiers sont au format .txt. Le nommage des sources doit respecter la chart
 * Les caractères autorisés sont [a-z],[1-9]
 * nomdossierparent_nomdossierparent_description_formX.txt
 
-Exemple
-* seo_reseaux-sociaux_reseau-sociaux_dedies-monde-video-form1.txt
+Exemple à suivre, dans le dossier Cuisine/pate_crepe
+* cuisine_pate_crepe_listing_ingredients.txt
+* cuisine_pate_crepe_recette.txt
+* cuisine_pate_crepe_listing_controle.txt
 
 ## Organisation du versionning du contenu des fichiers
 Le systeme de version est basé sur semversion, il doit être indiqué dans la premiere ligne du fichier de la facon suivante :

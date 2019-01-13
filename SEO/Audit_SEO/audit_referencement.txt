@@ -1,0 +1,77 @@
+%task%Vérification de la conformité SEO du site - 1.2.0-20181126
+
+%task%Vérification outils
+%point%Outils - Compte GA actif
+%point%Outils - Propriété Search Console active
+%point%Outils - Fiche Google MyBusiness active
+%point%Outils - Yoast SEO installé
+
+%task%Performance
+%point%Performance - Page d'accueil rapide
+%point%Performance - Page d'accueil optimisée
+%point%Performance - Présence d'un plugin de cache
+%point%Performance - Site en https
+
+%task%Indexation
+%point%Indexation - Présence robot.txt
+%point%Indexation - Indexation autorisée dans le robot.txt
+%point%Indexation - Pages non pertinentes bloquées par le fichier robots.txt
+%point%Indexation - Existence du sitemap.xml
+%point%Indexation - Fichier sitempas.xml soumis dans la Search Console
+%point%Indexation - Présence du lien vers le sitemaps dans le robots.txt
+
+%task%Structure du site
+%point%Structure de site - Présence d'un fil d'ariane
+%point%Structure de site - Répertoires hiérarchisés selon la logique du contenu
+%point%Structure de site - Structure des hn respectée
+
+%task%Balises sémantiques
+%point%Balises sémantiques - Présence d'une balise h1 unique par page
+%point%Balises sémantiques - Présence de balises Titles optimisées par page (70 carctères max)
+%point%Balises sémantiques - Présence de balises Meta Description optimisées (320 carctères max)
+%point%Balises sémantiques - Présence de requête cible définie par page
+
+%task%Contenu
+%point%Contenu - Les pages contiennent des mots clés pertinents
+%point%Contenu - Maillage interne du site
+%point%Contenu - Ancres optimisées en interne
+%point%Contenu - Présence de backlinks
+%point%Contenu - URL optimisé
+%point%Contenu - Présence d'un blog
+%point%Contenu - Utilisation des marqueurs de données
+%point%Contenu - Footer optimisé
+%point%Contenu - Présence du moteur de recherche interne
+%point%Contenu - Présence de contenus vidéos liés à un compte Youtube
+
+%task%Images
+%point%Images - Balises ALT complétées
+%point%Images - Poids des images inférieur à 100kb
+%point%Images - Nom des images soigné
+
+%task%URL
+%point%URL - Réecriture d'URLs activée
+%point%URL - Absence d'erreurs 404
+%point%URL - Page 404 optimisée
+%point%URL - Personnalisation des URLs possible
+
+%task%Avis
+%point%Avis - Plugin de gestion des avis
+%point%Avis - Mise à jour des avis sur le site
+%point%Avis - Réponse aux avis sur Google
+
+%task%Réseaux sociaux
+%point%Réseaux sociaux - Présence des boutons de partage
+%point%Réseaux sociaux - Existence Page Pro Facebook
+%point%Réseaux sociaux - Existence Page Twitter
+%point%Réseaux sociaux - Existence Page Instagram
+%point%Réseaux sociaux - Existence Page Pro LinkedIn
+%point%Réseaux sociaux - Publication automatique du blog vers les réseaux (jetpack)
+
+%task%UX
+%point%UX - Site responsive
+%point%UX - Présence d'un formulaire de contact
+%point%UX - Présence d'un captcha dans le formulaire de contact
+%point%UX - Présence de liens cliquables vers le numéro de téléphone
+
+%task%E-reputation
+%point%E-reputation - Positionnement du nom de marque en 1ère page Google 

@@ -1,0 +1,11 @@
+%task%Mise en place des liaisons vers les reseaux sociaux - 1.0.0-20180918
+%point%Installation JetPack
+%point%Liaison compte Facebook
+%point%Liaison compte Twitter
+%point%Liaison compte Google+
+%point%Insertion pictos Facebook
+%point%Insertion pictos Twitter
+%point%Insertion pictos Google+
+%point%Ajout boutons d'action
+%point%bouton "j'aime"
+%point%bouton de partage

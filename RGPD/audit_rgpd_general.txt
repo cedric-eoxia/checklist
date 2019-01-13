@@ -1,0 +1,75 @@
+%task%Vérification de la conformité RGPD général- 1.1.0-20180523
+%task%Etape 1 Désigner un pilote - DPO
+%point%DPO - Désigner un pilote - DPO
+%point%DPO - Vous êtes un organisme public > Obligatoire
+%point%DPO - Vous êtes une entreprise dont l’activité de base vous amène à réaliser un suivi régulier et systématique des personnes à grande échelle, ou à traiter à grande échelle des données dites « sensibles » ou relatives à des condamnations pénales et infractions > Obligatoire
+%point%DPO - 1. LE DPO DÉTIENT LES COMPÉTENCES REQUISES
+%point%DPO - 2. LE DPO DISPOSE DE MOYENS SUFFISANTS
+%point%DPO - 3. LE DPO A LA CAPACITÉ D’AGIR EN TOUTE INDÉPENDANCE
+%point%DPO - Faire la désignation https://designations.cnil.fr/dpo/designation/organisme.designant.delegue.action
+
+%task%Etape 2 - Cartographier vos traitements de données personnelles
+%point%Cartographier - Les différents traitements de données personnelles
+%point%Cartographier - Les catégories de données personnelles traitées
+%point%Cartographier - Les objectifs poursuivis par les opérations de traitements de données
+%point%Cartographier - Les acteurs (internes ou externes) qui traitent ces données. Vous devrez notamment clairement identifier les prestataires sous-traitants afin d’actualiser les clauses de confidentialité
+%point%Cartographier - Les flux en indiquant l’origine et la destination des données, afin notamment d’identifier les éventuels transferts de données hors de l'Union européenne
+%point%Cartographier - registre_rgpd_basique rempli ?
+
+%task%Etape 3 - Prioriser les actions à mener
+%point%Prioriser - Assurez-vous que seules les données strictement nécessaires à la poursuite de vos objectifs sont collectées et traitées.
+%point%Prioriser - Identifiez la base juridique sur laquelle se fonde votre traitement (par exemple : consentement de la personne, intérêt légitime, contrat, obligation légale) 
+%point%Prioriser - Révisez vos mentions d’information afin qu’elles soient conformes aux exigences du règlement  (articles 12, 13 et 14 du règlement)
+%point%Prioriser - Vérifiez que vos sous-traitants connaissent leurs nouvelles obligations et leurs responsabilités, assurez-vous de l’existence de clauses contractuelles rappelant les obligations du sous-traitant en matière de sécurité, de confidentialité et de protection des données personnelles traitées.
+%point%Prioriser - Prévoyez les modalités d'exercice des droits des personnes concernées (droit d'accès, de rectification, droit à la portabilité, retrait du consentement...)
+%point%Prioriser - Vérifiez les mesures de sécurité mises en place.
+%point%Prioriser - Des données qui révèlent l’origine prétendument raciale ou ethnique, les opinions politiques, philosophiques ou religieuses, l’appartenance syndicale,
+%point%Prioriser - Des données concernant la santé ou l’orientation sexuelle,
+%point%Prioriser - Des données génétiques ou biométriques,  
+%point%Prioriser - Des données d’infraction ou de condamnation pénale,
+des données concernant des mineurs.
+%point%Prioriser - La surveillance systématique à grande échelle d'une zone accessible au public ;
+%point%Prioriser - L'évaluation systématique et approfondie d'aspects personnels, y compris le profilage, sur la base de laquelle vous prenez des décisions produisant des effets juridiques à l'égard d'une personne physique ou L'affectant de manière significative.
+%point%Prioriser - Vérifiez que le pays vers lequel vous transférez les données est reconnu comme adéquat par la Commission européenne dans le cas contraire, encadrez vos transferts.
+
+%task%Etape 4 - Gérer les risques
+%point%Gérer - Avez vous fait une analyse d'impact sur la protection des données (PIA) obligatoire pour tout traitement susceptible d'engendrer des risques élevés pour les droits et libertés des personnes concernées (Article 35 du RGPD)
+%point%Gérer - Avez vous des données concernant les principes et droits fondamentaux, « non négociables », fixés par la loi. Ils ne peuvent faire l’objet d’aucune modulation, quelles que soient la nature, la gravité et la vraisemblance des risques encourus
+%point%Gérer - la gestion des risques sur la vie privée des personnes concernées, qui permet de déterminer les mesures techniques et d’organisation appropriée pour protéger les données personnelles.
+%point%Gérer - PIA - Utilisez vous le logiciel pour les PIA de la CNIL ?
+%point%Gérer - PIA - Une description du traitement étudié et de ses finalités.
+%point%Gérer - PIA - Une évaluation de la nécessité et de la proportionnalité des opérations de traitement au regard des finalités
+%point%Gérer - PIA - Une évaluation des risques pour les droits et libertés des personnes concernées les mesures envisagées pour faire face aux risques.
+%point%Gérer - PIA - Evaluation ou notation;
+%point%Gérer - PIA - Décision automatisée avec effet juridique ou effet similaire significatif;
+%point%Gérer - PIA - Surveillance systématique ;
+%point%Gérer - PIA - Données sensibles ou données à caractère hautement personnel ;
+%point%Gérer - PIA - Données personnelles traitées à grande échelle ;
+%point%Gérer - PIA - Croisement d’ensembles de données ;
+%point%Gérer - PIA - Données concernant des personnes vulnérables ;
+%point%Gérer - PIA - Usage innovant ou application de nouvelles solutions technologiques ou organisationnelles ;
+%point%Gérer - PIA - Exclusion du bénéfice d’un droit, d’un service ou contrat.
+
+%task%Etape 5 - Organiser les processus internes
+%point%Organiser - Prendre en compte de la protection des données personnelles dès la conception d’une application ou d’un traitement (minimisation de la collecte de données au regard de la finalité, cookies, durée de conservation, mentions d’information, recueil du consentement, sécurité et confidentialité des données s’assurer du rôle et de la responsabilité des acteurs impliqués dans la mise en œuvre de traitements de données). Pour cela, appuyez-vous sur les conseils du délégué à la protection des données;
+%point%Organiser - Sensibiliser et d'organiser la remontée d’information en construisant notamment un plan de formation et de communication auprès de vos collaborateurs ;
+%point%Organiser - Traiter les réclamations et les demandes des personnes concernées quand à l’exercice de leurs droits (droits d’accès, de rectification, d’opposition, droit à la portabilité, retrait du consentement) en définissant les acteurs et les modalités (l'exercice des droits doit pouvoir se faire par voie électronique, si les données ont été collectées par ce moyen)
+%point%Organiser - Anticiper les violations de données en prévoyant, dans certains cas, la notification à l’autorité de protection des données dans les 72 heures et aux personnes concernées dans les meilleurs délais.
+
+%task%Etape 6 - Documenter la conformité
+%point%documenter - Le registre des traitements (pour les responsables de traitements)  ou des catégories d’activités de traitements (pour les sous-traitants)
+%point%documenter - Les analyses d’impact sur la protection des données (PIA) pour les traitements susceptibles d'engendrer des risques élevés pour les droits et libertés des personnes
+%point%documenter - L'encadrement des transferts de données hors de l'Union européenne (notamment, les clauses contractuelles types, les BCR et certifications)
+%point%documenter - Les mentions d’information
+​%point%documenter - Les modèles de recueil du consentement des personnes concernées,
+%point%documenter - Les procédures mises en place pour l'exercice des droits
+%point%documenter - Les contrats avec les sous-traitants
+%point%documenter - Les procédures internes en cas de violations de données
+%point%documenter - Les preuves que les personnes concernées ont donné leur consentement lorsque le traitement de leurs données repose sur cette base.
+
+%task% Les principes clés de la protection des données personnelles
+%point%principe 1 la finalité
+%point%principe 2 la pertinence
+%point%principe 3 la conservation
+%point%principe 4 les droits
+%point%principe 5 la sécurité

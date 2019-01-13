@@ -1,0 +1,33 @@
+﻿%task%Vérification de la conformité RGPD pour un site vitrine - 1.1.1-20180530
+%task%Vérification de la conformité dans la Politique de confidentialité
+%point%PC - Ajouter votre nouvelle politique de confidentialité
+%point%PC - Faire apparaître la Politique de confidentialité dans une page intégrée à votre pied de page
+%point%PC - Spécifier les endroits de collecte des données personnelles
+%point%PC - spécifier vos coordonnées
+%point%PC - spécifier les coordonnées Client
+%point%PC - spécifier les coordonnées de l'éditeur du site
+%point%PC - spécifier les coordonnées de l'hébergeur du site
+%point%PC - spécifier les types de données que vous récoltez (noms, ip, mail etc...)
+%point%PC - spécifier la durée de stockage des données (données marketing : 3ans max, facturation : 6ans max)
+%point%PC - spécifier les mesures de sécurité que vous avez mises en place
+%point%PC - indiquer votre politique d’utilisation des cookies
+
+%task%Vérification de la conformité des formulaires
+%point%Formulaire - Dans les formulaires, ajouter la case de consentement à cocher 
+%point%Formulaire - spécifier la raison de la collecte de ces données
+%point%Formulaire - proposer aux utilisateurs de se désinscrire ou d’accéder à leurs données aisément et à tout moment
+
+%task%Vérification de la conformité des commentaires
+%point%Commentaire - Pour les commentaires, ajouter un message-type de consentement
+%point%Commentaire - Autoriser la publication des commentaires que lorsque l’utilisateur est connecté
+
+%task%Vérification de la securisation des données
+%point%Securite - Pour la sécurisation des données, créer un process d’effacement des données
+%point%Securite - créer un process de modification des données 
+%point%Securite - créer un process d'accès aux données
+%point%Securite - Instaurer un registre interne de traitement des données
+
+%task%Vérification de la conformité des données pour le marketing
+%point%Marketing - Redemander l'envoi de newsletters ou emails de prospection aux clients existants
+%point%Marketing - Demander l'autorisation pour le profilage
+%point%Marketing - Demander l'autorisation pour le retargeting

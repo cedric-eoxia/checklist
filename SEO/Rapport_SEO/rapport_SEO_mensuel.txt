@@ -1,0 +1,13 @@
+%task%Rapport référencement-AAAA-url 
+%point%Janvier
+%point%Février
+%point%Mars
+%point%Avril
+%point%Mai
+%point%Juin
+%point%Juillet
+%point%Aout
+%point%Septembre
+%point%Octobre
+%point%Novembre
+%point%Décembre
