@@ -1,6 +1,0 @@
-%task% Etape à suivre afin de réaliser la pate à crêpe
-%point%Dans un saladier, verser la farine et les oeufs. Puis ajoutez le lait doucement en mélangeant avec votre fouet
-%point%Ajoutez le sucre vanillé, la pincée de sel
-%point%Laissez reposer la pâte à crêpe si possible une heure à température ambiante
-%point%Versez une demi-louche de votre pâte à crêpe dans la peole chaude
-%point%Faites cuire 1 à 2 minutes par face
