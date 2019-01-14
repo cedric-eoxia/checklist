@@ -1,4 +1,4 @@
-%task% Analyse des concurrents Etape 1 - 1.0.0-201901014
+%task% Analyse des concurrents Etape 1 - 1.0.0-20190114
 %point%Définir les objectifs de l'analyse de la concurrence
 %point%Définir les informations à rechercher
 %point%Personnaliser la checklist SEO_concurrence_outil_analyse_positionnement_concurrent"
