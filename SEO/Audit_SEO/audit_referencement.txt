@@ -65,11 +65,13 @@
 %point%Réseaux sociaux - Existence Page Twitter
 %point%Réseaux sociaux - Existence Page Instagram
 %point%Réseaux sociaux - Existence Page Pro LinkedIn
+%point%Réseaux sociaux - Présence des liens des réseaux sociaux actifs dans le header
 %point%Réseaux sociaux - Publication automatique du blog vers les réseaux (jetpack)
 
 %task%UX
 %point%UX - Site responsive
 %point%UX - Présence d'un formulaire de contact
+%point%UX - Présence d'un bouton d'appel à l'action au dessus de la ligne de flotaison
 %point%UX - Présence d'un captcha dans le formulaire de contact
 %point%UX - Présence de liens cliquables vers le numéro de téléphone
 
