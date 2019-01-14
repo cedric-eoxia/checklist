@@ -1,4 +1,5 @@
 %task%Mise en place des liaisons vers les reseaux sociaux - 1.0.0-20180918
+%point%Ajout lien dans le header des réseaux sociaux actifs
 %point%Installation JetPack
 %point%Liaison compte Facebook
 %point%Liaison compte Twitter
